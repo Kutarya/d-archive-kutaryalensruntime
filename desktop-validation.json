@@ -1,0 +1,65 @@
+{
+  "validated_at": "2026-09-27T23:00:00.1793883Z",
+  "app_root": "D:\\KutaryaLensDesktop",
+  "runtime_root": "D:\\KutaryaLensRuntime",
+  "gguf": "D:\\KutaryaModels\\Qwen3-4B\\Qwen3-4B-Q6_K.gguf",
+  "llama_cpp": "D:\\KutaryaLens-TextOnly-Bench\\runtime\\llama-server.exe",
+  "shortcut": {
+    "path": "C:\\Users\\yunus\\OneDrive\\Desktop\\Kutarya Lens.lnk",
+    "target": "D:\\KutaryaLensDesktop\\Launch Kutarya Lens.vbs",
+    "working_directory": "D:\\KutaryaLensDesktop",
+    "exists": true
+  },
+  "smoke_result": "D:\\KutaryaLensRuntime\\smoke-result.json",
+  "stop_smoke": "D:\\KutaryaLensRuntime\\stop-generation-smoke.json",
+  "ui_screenshot": "D:\\KutaryaLensRuntime\\ui-screenshot-final.png",
+  "app_processes_after_close": 0,
+  "server_running_after_close": false,
+  "files": [
+    {
+      "path": "D:\\KutaryaLensDesktop\\app.py",
+      "bytes": 29925,
+      "sha256": "209b70e444bc811216280fd5f7cc008b284e075359bb52199b3020107ffe135a"
+    },
+    {
+      "path": "D:\\KutaryaLensDesktop\\kutarya-lens.ico",
+      "bytes": 12337,
+      "sha256": "8e49b7b7406ebdeeb813eed3c644c2de6962c7d97b6d5807a758d5d5d4f50d0c"
+    },
+    {
+      "path": "D:\\KutaryaLensDesktop\\Launch Kutarya Lens.vbs",
+      "bytes": 490,
+      "sha256": "897164b113869335177c25d0f9bac996431fd29a4630cc738472aadac6b5cffa"
+    },
+    {
+      "path": "D:\\KutaryaLensDesktop\\lens_worker.py",
+      "bytes": 2079,
+      "sha256": "12b8f358d78141667139555977cc92b2f7ef05bc63a568a783cdb096568fb663"
+    },
+    {
+      "path": "D:\\KutaryaLensDesktop\\README.md",
+      "bytes": 1013,
+      "sha256": "d3b27ad24ae4c979a7de897d91297a36650e317f39b52670770e7127e5bd6603"
+    },
+    {
+      "path": "D:\\KutaryaLensDesktop\\runtime.py",
+      "bytes": 17203,
+      "sha256": "8ea82440b02702ecbf642af35638c4e7b23d25a99afc4b3dccdde6d89864aebc"
+    },
+    {
+      "path": "D:\\KutaryaLensDesktop\\settings.py",
+      "bytes": 721,
+      "sha256": "0f70bcea0d09fc7ddc727d463ec39a84545b56b64c6ef93a93022271b474b74f"
+    },
+    {
+      "path": "D:\\KutaryaLensDesktop\\smoke_test.py",
+      "bytes": 3826,
+      "sha256": "1d8ccb03a833d9d212b17a6ef4fc2074d9efc8cec794e9b562c2a3065038185c"
+    },
+    {
+      "path": "D:\\KutaryaLensDesktop\\stop_generation_smoke.py",
+      "bytes": 1555,
+      "sha256": "78496d5cd9de19fb9008fcd41bb14934ee15e204055131ddf403a01403f7c1ea"
+    }
+  ]
+}

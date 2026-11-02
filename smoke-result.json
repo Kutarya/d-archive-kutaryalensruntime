@@ -1,0 +1,58 @@
+{
+  "timestamp_utc": "2026-09-27T22:50:03.060744+00:00",
+  "source_image_supplied_to_qwen": false,
+  "gemini_used": false,
+  "server_owned_by_smoke": true,
+  "text_only_server_ready": true,
+  "text_chat": {
+    "passed": true,
+    "answer": "OK",
+    "metrics": {
+      "model": "Qwen/Qwen3-4B-GGUF",
+      "quantization": "Q6_K",
+      "prompt_tokens": 70,
+      "output_tokens": 2,
+      "total_tokens": 72,
+      "ttft_ms": 898.8210000097752,
+      "generation_ms": 44.549,
+      "response_time_ms": 944.4625000469387,
+      "tokens_per_second": 22.447192978518036,
+      "thinking_enabled": false,
+      "generation_effort": "Quick",
+      "max_tokens": 256
+    },
+    "lens_used": false
+  },
+  "image_chat": {
+    "passed": true,
+    "answer": "In this scene, the following elements are visible:\n\n1. A person wearing red clothing is in the center.\n2. A white ski is in the lower area.\n3. The sky is blue.\n4. The dirt is in the lower-left area and is white.\n5. A tree is in the center and is brown.\n6. Mountains are in the lower area and are white.\n7. The mountains appear behind both the person and the ski.",
+    "lens_text": "The image contains one person wearing red clothing in the center; a white skis in the lower area. A person in the center wears red clothing. Scene colors: sky is blue; dirt is white; tree is brown; mountain is white. Mountain appears behind a person. Mountain appears behind a skis. Scene layout: sky in the upper area; tree in the center; dirt in the lower-left area; mountain in the lower area.",
+    "lens_processing_ms": 13367.421800037846,
+    "lens_output_tokens": 89,
+    "lens_detail": "detailed",
+    "metrics": {
+      "model": "Qwen/Qwen3-4B-GGUF",
+      "quantization": "Q6_K",
+      "prompt_tokens": 173,
+      "output_tokens": 92,
+      "total_tokens": 265,
+      "ttft_ms": 1033.371299970895,
+      "generation_ms": 4032.591,
+      "response_time_ms": 5066.46759994328,
+      "tokens_per_second": 22.566136759220065,
+      "thinking_enabled": false,
+      "generation_effort": "Quick",
+      "max_tokens": 256
+    },
+    "source_image_forwarded_to_qwen": false
+  },
+  "request_audit": {
+    "rows_checked": 2,
+    "all_text_content": true,
+    "no_source_image": true,
+    "no_image_url_field": true,
+    "no_multimodal_projector": true
+  },
+  "passed": true,
+  "owned_server_stopped": true
+}

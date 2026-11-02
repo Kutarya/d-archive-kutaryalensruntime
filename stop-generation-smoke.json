@@ -1,0 +1,8 @@
+{
+  "result": null,
+  "error": "InterruptedError",
+  "first_token": true,
+  "thread_stopped": true,
+  "cancel_reported_as_interrupted": true,
+  "owned_server_stopped": true
+}
